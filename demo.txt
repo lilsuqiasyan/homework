@@ -1,12 +1,1 @@
-<<<<<<< HEAD
-
-line1
-line2
-line3
-line4
-line5
-=======
-line1
-line2
-line3
->>>>>>> parent of eda8519 (added_new_lines)
+line5555
